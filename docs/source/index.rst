@@ -21,7 +21,7 @@ Kod::
 1. List 1
 2. List 2
 
-`To jest link <google.com/>`_
+`To jest link <https://google.com/>`_
 
 +-------+-------+
 |tabela |tabela |
